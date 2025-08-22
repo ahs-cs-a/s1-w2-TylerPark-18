@@ -16,5 +16,10 @@ public class BodyOfWater {
         d = avgDepth;
 
     }
-    public void Na 
+    public void setName(String n){
+        name = n;
+    }
+    public void setlargestDiameter(String l){
+        largestDiameter = l;
+    }
 }
